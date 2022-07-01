@@ -2,4 +2,5 @@
 - This is a pathway to learn basics of blockchain and solidity.
 - Different blogs would be posted as we will proceed further.
 ## Index
-- [Basics of Smart Contract](/01BasicsOfSmartContracts)
+- [01 Basics of Smart Contract](/01BasicsOfSmartContracts)
+- [02 Basics of Blockchain](/02BlockchainBasics/)
