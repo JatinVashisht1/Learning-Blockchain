@@ -33,8 +33,6 @@ For example if person A is sending money to account of Person B, then transactio
 - This means that more time you wait more the chances of the block to get accepted.
 ---
 ### Note
-<p>
 Transactions are not guaranteed to be included in the next block or any specific future block, since it is not up to the submitter of a transaction, but up to the miners to determine in which block the transaction is included.
-</p>
 
 ---
