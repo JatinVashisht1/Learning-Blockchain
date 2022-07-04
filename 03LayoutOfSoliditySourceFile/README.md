@@ -3,6 +3,7 @@
 ## Before we start
 - This blog is inspired from official solidity documentation.
 - Read the official docs by clicking [here](https://docs.soliditylang.org/en/v0.8.15/layout-of-source-files.html)
+- This is also posted on my [github](https://github.com/JatinVashisht1/Learning-Blockchain/tree/master/03LayoutOfSoliditySourceFile)
 - A solidity source file can contain anything from a contract definition, function, variable, etc.
 - In this blog we will try to breakdown different parts of solidity source file.
 
