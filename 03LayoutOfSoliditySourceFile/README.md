@@ -1,4 +1,4 @@
-# Layout of a Solidity Source File
+# 03 Layout of a Solidity Source File
 - Understanding the different components of a solidity source file.
 ## Before we start
 - This blog is inspired from official solidity documentation.
