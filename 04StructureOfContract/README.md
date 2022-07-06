@@ -4,6 +4,7 @@
 ## Before we proceed
 - This blog is inspired from official solidity docs.
 - You can go-to the docs by clicking [here](https://docs.soliditylang.org/en/v0.8.15/structure-of-a-contract.html).
+- This blog is also posted on my [github](https://github.com/JatinVashisht1/Learning-Blockchain/tree/master/04StructureOfContract)
 
 ## Overview
 - Contracts in solidity are similar to the concept of classes in Object Oriented Languages, they can be inherited and can inherited other contracts as well.
